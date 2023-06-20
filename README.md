@@ -1,5 +1,5 @@
 # César Schirmer dos Santos   
-Philosophy professor   
+Philosophy Professor   
 Contact: cesar.santos@ufsm.br    
 Department of Philosophy, Universidade Federal de Santa Maria    
 
