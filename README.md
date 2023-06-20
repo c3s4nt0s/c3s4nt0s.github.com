@@ -1,5 +1,5 @@
-# c3s4nt0s.github.io
-César Schirmer dos Santos, philosophy professor   
+# César Schirmer dos Santos   
+Philosophy professor   
 Contact: cesar.santos@ufsm.br    
 Department of Philosophy, Universidade Federal de Santa Maria    
 
