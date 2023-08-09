@@ -4,7 +4,7 @@ Contact: cesar.santos@ufsm.br
 Department of Philosophy, Universidade Federal de Santa Maria   
 
 2023.08.09. Teaching @ UFSM. Metafísica
-1. "Metafísica: Antigos e Modernos." [Slides in PDF format.](https://github.com/c3s4nt0s/c3s4nt0s.github.com/blob/main/%5B1_3%5D%20Metafísica_%20Antigos%20e%20Modernos%202023-01-19.pdf)
+1. "Metafísica: Antigos e Modernos." [Slides in PDF format.](https://github.com/c3s4nt0s/c3s4nt0s.github.com/blob/main/%5B1_3%5D%20Metafísica_%20Antigos%20e%20Modernos%202023-01-19.pdf) 
 2. "Metafísica: Alguns Temas." [Slides in PDF format.](https://github.com/c3s4nt0s/c3s4nt0s.github.com/blob/main/%5B2_3%5D%20Metafísica_%20Alguns%20Temas%202023-01-19.pdf)
 3. "Metafísica e Outras Disciplinas Filosóficas." [Slides in PDF format.](https://github.com/c3s4nt0s/c3s4nt0s.github.com/blob/main/%5B3_3%5D%20Metafísica%20e%20Outras%20Disciplinas%20Filosóficas%202023-01-19.pdf)
 4. "Metafísica: Os Métodos." [Slides in PDF format.](https://github.com/c3s4nt0s/c3s4nt0s.github.com/blob/main/%5B4_4%5D%20Metafísica_%20os%20Métodos%202023-01-18.pptx.pdf)
